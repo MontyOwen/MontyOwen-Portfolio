@@ -50,8 +50,6 @@ a:hover{
 h1{
     font-size:22pt;
     color: #f1f1f1;
-    padding-bottom: 5px; 
-    
     
 }
 
@@ -118,7 +116,7 @@ a{
 }
 
 .gridparagraph{
-margin-top: 2.5%;
+/*margin-top: 2.5%;*/
 font-size: 14pt;
 color: #f1f1f1;
 text-align: justify;
@@ -182,10 +180,10 @@ box-sizing:border-box;
 }
 .griditem1 > img {
     
-    margin-left: auto;
-    margin-right: auto;
+    margin-left:auto;
+    margin-right:auto;
     object-fit:contain;
-    width: 100%;
+    width: 90%;
     max-height:90%;
     border-radius: 10px;
     
@@ -222,7 +220,8 @@ line-height: 1.5em;
     gap:0em 5%;
     margin-left:auto;
     margin-right:auto;
-    margin-top:5%;
+    ;
+    
 
 }
 .linkedin{
